@@ -39,6 +39,8 @@ build/Release
 
 # Dependency directories
 node_modules/
+# adding DS_Store per homework instructions
+DS_Store/
 jspm_packages/
 
 # TypeScript v1 declaration files
