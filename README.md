@@ -1,10 +1,10 @@
-# asfg #
+# README Generator #
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ## Description ##
 ----------------------------------------
-asgg
+This generates a high quality  README file
 
 
 ## Table of Contents ##
@@ -25,7 +25,7 @@ To install necessary dependencies, run the following command:
 
 ## Usage ##
 ------------------------------------------
-ggs
+Use carefully.
 
 
 ## License ##
@@ -35,7 +35,7 @@ This project is licensed under the GPLv3 license license.
 
 ## Contributing ##
 -----------------------------------------
-shh
+Please don't break anything.
 
 
 ## Tests ##
@@ -46,8 +46,8 @@ To run tests, run the following command:
 
 ## Questions ##
 ----------------------------------------
-If you have any questions about the repo, open an issue or contact me directly at asfhg
-You can find more of my work at **[asjf](https://github.com/asjf)**
+If you have any questions about the repo, open an issue or contact me directly at BHaney70@live.com
+You can find more of my work at **[BrianHaney2020](https://github.com/BrianHaney2020)**
 
 
 
