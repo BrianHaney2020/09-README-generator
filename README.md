@@ -50,6 +50,11 @@ If you have any questions about the repo, open an issue or contact me directly a
 You can find more of my work at **[BrianHaney2020](https://github.com/BrianHaney2020)**
 
 
+## Link to Video ##
+-----------------------------------------
+The following is a link to the video of me walking through using this README generator.
+**[video link](./assets/09README-generator-walkthrough)**
+
 
 
 
