@@ -53,7 +53,7 @@ You can find more of my work at **[BrianHaney2020](https://github.com/BrianHaney
 ## Link to Video ##
 -----------------------------------------
 The following is a link to the video of me walking through using this README generator.
-<iframe src="https://drive.google.com/file/d/1gJ-WF_RrjU9XSWPawPsnqh6LbWv__9Gt/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1gJ-WF_RrjU9XSWPawPsnqh6LbWv__9Gt/preview
 
 
 
